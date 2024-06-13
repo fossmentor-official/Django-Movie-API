@@ -1,6 +1,9 @@
 # Django-Movie-API
 
-A simple movie rating Rest API Backend in Django and Django-Rest-Framework With Login, Signup, And CRUD Functionality using Router, Viewsets and Serializers
+A simple Rest API Backend in Django and Django-Rest-Framework using `Router`, `Viewsets` and `Serializers`. 
+* Login, 
+* Signup, 
+* CRUD Functionality 
 
 # Requirements
 
@@ -49,8 +52,7 @@ python manage.py runserver
 
 Then go to http://127.0.0.1:8000 in your browser
 
-You can use any API client to check the API calls like `POSTMAN` API Client
-Token Authentication: http://127.0.0.1:8000/auth/
+You can use any API client to check the API calls like `POSTMAN` API Client.
 
 <h2>Project Snapshots</h2>
 <h3>Auth API Call</h3>
@@ -59,59 +61,52 @@ Token Authentication: http://127.0.0.1:8000/auth/
 ![Auth API Call](/static/img/screenshots/Authentication-API-Call.png)
 
 </div>
-
-<h3>Get All User API Call</h3>
+<h3>Get All Users API Call</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/GET-All-Users-API-Call.png)
+![Get All Users API Call](/static/img/screenshots/GET-All-Users-API-Call.png)
 
 </div>
-
 <h3>Get Single User API Call</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/GET-Single-User-API-Call.png)
+![Get Single User API Call](/static/img/screenshots/GET-Single-User-API-Call.png)
 
 </div>
-
 <h3>New User API Call</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/New-User-API-Call.png)
+![New User API Call](/static/img/screenshots/New-User-API-Call.png)
 
 </div>
-
 <h3>Get All Movies API Call With Authentication</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/GET-Single-Movie-API-Call-with-Token.png)
+![Get All Movies API Call With Authentication](/static/img/screenshots/GET-Single-Movie-API-Call-with-Token.png)
 
 </div>
-
 <h3>Get All Movies API Call</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/Get-All-Movies-API-Call.png)
+![Get All Movies API Call](/static/img/screenshots/GET-All-Movies-API-Call.png)
 
 </div>
-
 <h3>Get Single Movie API Call</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/Get-Single-Movie-API-Call.png)
+![Get Single Movie API Call](/static/img/screenshots/GET-Single-Movie-API-Call.png)
 
 </div>
-
 <h3>New Movie API Call</h3>
 <div align="center">
 
-![Login Screen](/static/img/screenshots/New-Movie-API-Call.png)
+![New Movie API Call](/static/img/screenshots/New-Movie-API-Call.png)
 
 </div>
 
 ## Author
 
 <blockquote>
-FOSS Mentor
+FOSSMentor
 Email: contact@fossmentor.com
 </blockquote>
